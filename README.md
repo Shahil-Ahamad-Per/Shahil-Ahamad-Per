@@ -72,43 +72,15 @@
 
 </div>
 
----
-## 📊 GitHub Analytics
-
+### 👀 Visitors
 <div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahilahamad&theme=tokyonight&border_radius=20" alt="GitHub Streak" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahilahamad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=20"/>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shahil-Ahamad-Per&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Shahil-Ahamad-dev" /></p>
-
+  <img src="https://count.getloli.com/get/@Shahil-Ahamad-Per?theme=rule34" alt="Shahil Ahamad count"/>
+  <p>Thanks to visited.</p>
+</div>
+<div align=right>
+  <p>Shahil Ahamad</p>
 </div>
 
-<div align="center">
-  
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
-
-
-</div>
-
-
-
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=shahilahamad&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&border_radius=20)
-
-</div>
-
-
-
----
-  
 ### 🎮 Watch my contributions get devoured!
   
 </div>
