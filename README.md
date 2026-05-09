@@ -81,20 +81,6 @@
   <p>Shahil Ahamad</p>
 </div>
 
-### 🎮 Watch my contributions get devoured!
-  
-</div>
-
-<p align="center">
- 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shahil-Ahamad-Per/Shahil-Ahamad-Per/output/snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shahil-Ahamad-Per/Shahil-Ahamad-Per/output/snake-contribution-graph.svg">
-<img src="https://raw.githubusercontent.com/Shahil-Ahamad-Per/Shahil-Ahamad-Per/output/snake.svg" alt="Snake animation" />
-</picture>
-</p>
-
-</div>
 
 ## 🌐 Let's Connect & Collaborate
 
